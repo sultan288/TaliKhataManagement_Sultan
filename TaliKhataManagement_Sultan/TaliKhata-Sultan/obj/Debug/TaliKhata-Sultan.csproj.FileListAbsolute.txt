@@ -1,0 +1,198 @@
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll.config
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhata-Sultan.pdb
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csc.exe
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csc.exe.config
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csc.rsp
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csi.exe
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csi.exe.config
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\csi.rsp
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.AppContext.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Collections.Immutable.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Console.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Globalization.Calendars.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Net.Http.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Net.Sockets.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.ValueTuple.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\vbc.exe
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\vbc.exe.config
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\vbc.rsp
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe.config
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhataBLL.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhataDAL.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhataBLL.pdb
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\TaliKhataDAL.pdb
+F:\DOTNETPROJECT\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOTNETPROJECT\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.AssemblyReference.cache
+F:\DOTNETPROJECT\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CopyComplete
+F:\DOTNETPROJECT\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.dll
+F:\DOTNETPROJECT\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll.config
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.exe
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.exe.config
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.rsp
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.exe
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.exe.config
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.rsp
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.AppContext.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Collections.Immutable.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Console.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Net.Http.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Net.Sockets.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.ValueTuple.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.exe
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.exe.config
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.rsp
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe.config
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhataBLL.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhataDAL.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhataBLL.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\TaliKhataDAL.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhata-Sultan.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhataBLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhataDAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhataBLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\TaliKhataDAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-61 (Final Exam)\New folder\TaliKhata\TaliKhata-Sultan\obj\Debug\TaliKhata-Sultan.pdb

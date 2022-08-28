@@ -1,0 +1,16 @@
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\bin\Debug\TaliKhataDAL.dll
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\bin\Debug\TaliKhataDAL.pdb
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.csproj.CopyComplete
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.dll
+F:\DOTNETPROJECT\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\bin\Debug\TaliKhataDAL.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\bin\Debug\TaliKhataDAL.pdb
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.dll
+D:\Bitm_Dot_Net\Class-61(Final XM)\TaliKhata\TaliKhataDAL\obj\Debug\TaliKhataDAL.pdb
